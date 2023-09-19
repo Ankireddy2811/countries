@@ -1,0 +1,44 @@
+.each-list-item {
+  background-color: #1f1f2f;
+  border: 1px solid #cbd5e1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: none;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.addBorder {
+  border-bottom: 1px solid #cbd5e1;
+}
+
+.name-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 400;
+  color: #f1f5f9;
+}
+
+.visit-button {
+  height: 30px;
+  width: 100px;
+  border: none;
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
+
+.visted-text {
+  width: 100px;
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+}
